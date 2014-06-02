@@ -24,8 +24,7 @@ include device/samsung/bcm21553-common/BoardConfigCommon.mk
 
 # Board
 TARGET_BOARD_PLATFORM				:= bcm21553
-TARGET_BOOTLOADER_BOARD_NAME 			:= totoro
-
+TARGET_BOOTLOADER_BOARD_NAME 			:= torino
 # Recovery
 BOARD_BML_RECOVERY				:= /dev/block/bml8
 BOARD_BOOTIMAGE_PARTITION_SIZE			:= 7357568
